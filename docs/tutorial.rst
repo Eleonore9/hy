@@ -673,3 +673,22 @@ Which, of course, expands out to:
     (wc (grep (cat "/usr/share/dict/words") "-E" "^hy") "-l")
 
 Much more readable, no? Use the threading macro!
+
+
+
+Tools
+=====
+
+Here are useful tools to work with Hy.
+
+**Editor plugins:**
+
+* Vim-hy for Vim
+* Hy-mode for Emacs
+* Hy kernel for Jupyter
+* Hy plugin for Sublime
+
+**Other:**
+
+* Hy debugger
+* Hy code analyzer
